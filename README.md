@@ -59,7 +59,7 @@ Images from project:
 </p>
 
 <p align="center">
-  <img src="Images/before%20and%20after%20log.png" width="450"/>
+  <img src="Images/before%20and%20after%20log.png" width="600"/>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Images from project:
 
 
 <p align="center">
-  <img src="Images/model%20comparisons.png" width="450"/>
+  <img src="Images/model%20comparisons.png" width="300"/>
 </p>
 
 <p align="center">
