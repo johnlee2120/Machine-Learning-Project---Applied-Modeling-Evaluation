@@ -4,7 +4,6 @@
 
 **In Progress:** Expanding to classification models (logistic regression, tree based methods, etc.)
 
----
 
 ## Machine Learning Regression Project
 
