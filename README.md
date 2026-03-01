@@ -38,14 +38,14 @@ Predict car prices using structured automotive data and evaluate multiple regres
 
 - Metrics
   - RMSE
-  - R^2 Score
+  - R² Score
 - Cross validation (3-fold, 5-fold)
 - Residual analysis + diagnostic plots
 
 **Results:**
 
 - Best Model - Lasso Regression
-- R^2: 0.80 (highest)
+- R²: 0.80 (highest)
 - RMSE: 3711.17 (lowest)
 - Regularization improved generalization vs polynomial overfitting
 
