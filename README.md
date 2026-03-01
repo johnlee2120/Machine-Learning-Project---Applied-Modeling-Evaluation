@@ -5,7 +5,7 @@
 **In Progress:** Expanding to classification models (logistic regression, tree based methods, etc.)
 
 
-## Machine Learning Regression Project
+## Phase 1: Regression Modeling
 
 **Objective:** 
 
@@ -45,8 +45,8 @@ Predict car prices using structured automotive data and evaluate multiple regres
 **Results:**
 
 - Best Model - Lasso Regression
-- R^2 = 0.80 (highest)
-- RMSE = 3711.17 (lowest)
+- R^2: 0.80 (highest)
+- RMSE: 3711.17 (lowest)
 - Regularization improved generalization vs polynomial overfitting
 
 **Key Insights:**
