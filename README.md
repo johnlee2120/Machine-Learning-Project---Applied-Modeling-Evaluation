@@ -52,3 +52,11 @@ Images from project:
 
 Predicted vs. Actual (Lasso)
 ![Plot Screenshot](Images/predicted%20vs%20actual.png)
+
+<p align="center">
+  <img src="Images/predicted%20vs%20actual.png" width="450"/>
+</p>
+
+<p align="center">
+  <em>Predicted vs Actual prices using Lasso Regression (strong linear fit)</em>
+</p>
