@@ -50,9 +50,6 @@ Scaling is critical for SGD performance
 
 Images from project:
 
-Predicted vs. Actual (Lasso)
-![Plot Screenshot](Images/predicted%20vs%20actual.png)
-
 <p align="center">
   <img src="Images/predicted%20vs%20actual.png" width="450"/>
 </p>
@@ -60,3 +57,23 @@ Predicted vs. Actual (Lasso)
 <p align="center">
   <em>Predicted vs Actual prices using Lasso Regression (strong linear fit)</em>
 </p>
+
+<p align="center">
+  <img src="Images/before%20and%20after%20log.png" width="450"/>
+</p>
+
+<p align="center">
+  <em>Before and after log transforming the "engine size" feature</em>
+</p>
+
+
+<p align="center">
+  <img src="Images/model%20comparisons.png" width="450"/>
+</p>
+
+<p align="center">
+  <em>Model comparisons (Lasso is strongest)</em>
+</p>
+
+
+
