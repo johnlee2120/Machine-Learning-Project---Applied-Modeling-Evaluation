@@ -50,3 +50,5 @@ Scaling is critical for SGD performance
 
 Images from project:
 
+Predicted vs. Actual (Lasso)
+![Plot Screenshot](Images/predicted%vs%actual.png)
