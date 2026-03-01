@@ -13,47 +13,47 @@ Predict car prices using structured automotive data and evaluate multiple regres
 
 **Dataset:** 
 
-~200+ observations, 25 features
-Mix of categorical and numerical features
-Target: Price
+- ~200+ observations, 25 features
+- Mix of categorical and numerical features
+- Target: Price
 
 **Data Processing:**
 
-Handled categorical variables via one-hot encoding
-Feature engineering (i.e. creating brand_category based on average prices)
-Log transformation applied to reduce skew 
-Train test split (70/30)
+- Handled categorical variables via one-hot encoding
+- Feature engineering (i.e. creating brand_category based on average prices)
+- Log transformation applied to reduce skew 
+- Train test split (70/30)
 
 **Modeling:**
 
-Linear regression
-Polynomial regression (degree tuning)
-Regularization:
-  Ridge
-  Lasso
-  Elastic Net
-SGD-based regression
+- Linear regression
+- Polynomial regression (degree tuning)
+- Regularization:
+  - Ridge
+  - Lasso
+  - Elastic Net
+- SGD-based regression
 
 **Model evaluation:**
 
-Metrics
-  RMSE
-  R^2 Score
-Cross validation (3-fold, 5-fold)
-Residual analysis + diagnostic plots
+- Metrics
+  - RMSE
+  - R^2 Score
+- Cross validation (3-fold, 5-fold)
+- Residual analysis + diagnostic plots
 
 **Results:**
 
-Best Model - Lasso Regression
-R^2 = 0.80 (highest)
-RMSE = 3711.17 (lowest)
-Regularization improved generalization vs polynomial overfitting
+- Best Model - Lasso Regression
+- R^2 = 0.80 (highest)
+- RMSE = 3711.17 (lowest)
+- Regularization improved generalization vs polynomial overfitting
 
 **Key Insights:**
 
-Engine size and curb weight are strong predictors
-Polynomial features caused severe overfitting without regularization
-Scaling is critical for SGD performance
+- Engine size and curb weight are strong predictors
+- Polynomial features caused severe overfitting without regularization
+- Scaling is critical for SGD performance
 
 **Images:**
 
