@@ -55,7 +55,7 @@ Engine size and curb weight are strong predictors
 Polynomial features caused severe overfitting without regularization
 Scaling is critical for SGD performance
 
-**Images from project:**
+**Images:**
 
 <p align="center">
   <img src="Images/predicted%20vs%20actual.png" width="450"/>
